@@ -57,25 +57,29 @@ Participates in public contests, private audits, and bug bounty programs — bui
 
 ---
 
+
+
+
 ## 🔒 Private Audits
-| № | Date | Project | Category | Vulnerabilities | Report | Language |
+### 📈 Private Audit Summary
+
+| Protocols | Critical | High | Medium | Low |
+|:--:|:--:|:--:|:--:|:--:|
+| **3** | **3** | **5** | **4** | **1** |
+
+| № | Date | Project | Category | Findings | Report | Language |
 |---|---|---|---|---|---|---|
-| 1 | 05.2026 | DVault / Astros Perpetual Vault | Perpetuals / Derivatives (Sui) | `1C` `1H` `2M` | Confidential | ![Move](https://img.shields.io/badge/-Move-4285F4?style=flat-square) |
-| 2 | 2026 | Aptos Lock/Yield Protocol (MoneyFi-integrated) | Lending / Yield Vault | `2C` `5H` | [✍️ Writeup 1](https://medium.com/@officialshieldemmanuel/the-penalty-that-never-happened-bypassing-a-move-vaults-emergency-exit-fee-1bde5a427906) · [✍️ Writeup 2](https://medium.com/@officialshieldemmanuel/one-assert-away-from-freezing-an-entire-protocol-40b7e14dff11) | ![Move](https://img.shields.io/badge/-Move-4285F4?style=flat-square) |
-| 3 | 05.2026 | Auto Finance (Tokemak) v2 | Yield Aggregator (ERC4626) | `1H` (candidate) | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| 4 | 05.2026 | myPLUME Liquid Staking | Liquid Staking | `1C` + 10 others | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| 5 | 05.2026 | Revert Finance StableSwap Hooks | Uniswap v4 Hook / AMM | `1H` `3M` `1L` | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| 6 | 06.2026 | Monolith Stablecoin Factory | Lending | `1H` | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| 7 | 06.2026 | Morpho Midnight | Fixed-Rate Lending | `2L` | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| 8 | 05.2026 | PredictStreet DualDefense | Prediction Market Infra | Informational | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+| 1 | 04.2026 | Aptos Lock / Yield Protocol (MoneyFi) | Lending / Yield Vault | `2C` `1H` `1M` `1L` | [✍️ Writeup 1](https://medium.com/@officialshieldemmanuel/the-penalty-that-never-happened-bypassing-a-move-vaults-emergency-exit-fee-1bde5a427906) · [✍️ Writeup 2](https://medium.com/@officialshieldemmanuel/one-assert-away-from-freezing-an-entire-protocol-40b7e14dff11) | ![Move](https://img.shields.io/badge/-Move-4285F4?style=flat-square) |
+| 2 | 04.2026 | Confidential Aave Adapter | Lending (FHE, Diamond Proxy) | `1C` `1H` `2M` | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+| 3 | 04.2026 | Token Launch / Bonding-Curve Platform | Launchpad / LP Migration | `3H` `1M` | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+
 
 ---
 
 ## 🤝 Team Audits
 | № | Date | Provider | Project | Category | Vulnerabilities | Report | Language |
 |---|---|---|---|---|---|---|---|
-| 1 | 04.2026 | Kann Audits | Confidential Aave Adapter | Lending (FHE, Diamond Proxy) | `1C` `1H` `3M` | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| 2 | 04.2026 | Kann Audits | Token Launch / Bonding-Curve Platform | Launchpad / LP Migration | `4H` | Confidential | ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+
 
 ---
 
