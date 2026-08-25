@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=140&section=header" width="100%"/>
 
 # shieldrey
 ### Smart Contract Security Researcher
